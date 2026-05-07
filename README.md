@@ -29,3 +29,6 @@ Me apasiona construir soluciones eficientes y minimalistas. Actualmente enfocado
 * ⌨️ Amante de la estética minimalista y cyberpunk.
 * 🎥 Streamer de contenido tecnológico y gaming.
 * 🦾 Entusiasta de la calistenia y el hardware.
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ricardoruiz-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoruiz-dev&layout=compact&theme=dark)
