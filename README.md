@@ -1,6 +1,5 @@
-![ image alt] (https://github.com/ricardoruiz-dev/ricardoruiz-dev/blob/0ced1c2c9d9c0384887eff3303cf0ceab690945a/Gemini_Generated_Image_x9dyyux9dyyux9dy.png)
 <p align="center">
-  <img src="banner_header.png" alt="Banner de Ricardo Ruiz" width="100%">
+  <img src="https://raw.githubusercontent.com/ricardoruiz-dev/ricardoruiz-dev/0ced1c2c9d9c0384887eff3303cf0ceab690945a/Gemini_Generated_Image_x9dyyux9dyyux9dy.png" alt="Banner de Ricardo Ruiz" width="100%">
 </p>
 
 # Hola, soy Ricardo Ruiz 👋
@@ -25,7 +24,7 @@
       <p>Estoy trabajando activamente en mis habilidades de programación para transicionar a mi primer rol de desarrollador full-time.</p>
     </td>
     <td width="30%" valign="top">
-      <img src="ilustracion.png" width="100%" alt="Ilustración minimalista" />
+      <img src="https://raw.githubusercontent.com/ricardoruiz-dev/TuRepositorio/nombre-de-la-rama/ruta/a/la/ilustracion.png" width="100%" alt="Ilustración minimalista" />
     </td>
   </tr>
 </table>
@@ -41,7 +40,7 @@
   <a href="mailto:TU_CORREO_AQUI">
     <img src="https://img.shields.io/badge/-Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
-  <a href="TU_LINK_DE_STREAMING_AQUI (por ejemplo, Twitch o YouTube)" target="_blank">
+  <a href="TU_LINK_DE_STREAMING_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-Streaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Streaming" />
   </a>
 </p>
@@ -93,5 +92,5 @@
 </p>
 
 <p align="center">
-  <img src="banner_final.png" alt="Banner final cyberpunk" width="100%" />
+  <img src="https://raw.githubusercontent.com/ricardoruiz-dev/TuRepositorio/nombre-de-la-rama/ruta/a/la/banner_final.png" alt="Banner final cyberpunk" width="100%" />
 </p>
