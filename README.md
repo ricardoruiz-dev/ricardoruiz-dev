@@ -1,7 +1,5 @@
 ![Banner Animado](https://github.com/ricardoruiz-dev/ricardoruiz-dev/blob/e7667027baaf99cbd0ac7ec3497e3c64669f2b23/Digital_Character_Animation_A_person_walks_through_a_darkened_industrial_Gk7ywUNk-ezgif.com-gif-maker-2.gif)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ricardoruiz-dev/ricardoruiz-dev/0ced1c2c9d9c0384887eff3303cf0ceab690945a/Gemini_Generated_Image_x9dyyux9dyyux9dy.png" alt="Banner de Ricardo Ruiz" width="100%">
-</p>
+
 
 # Hola, soy Ricardo Ruiz 👋
 
