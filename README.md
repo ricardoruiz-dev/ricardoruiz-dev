@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Ricardo Ruiz 👋
 
-<!--
-**ricardoruiz-dev/ricardoruiz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer | IT Support Specialist
 
-Here are some ideas to get you started:
+Me apasiona construir soluciones eficientes y minimalistas. Actualmente enfocado en el desarrollo de software y la infraestructura tecnológica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 🚀 Proyectos Destacados
+* **Elevador Automatizado:** Sistema de 4 pisos controlado con Arduino y drivers de motor.
+* **Junior Portfolio:** (En desarrollo) Mi vitrina personal construida con estándares modernos.
+
+---
+
+### 📱 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
+
+---
+
+### ⚡ Datos curiosos
+* ⌨️ Amante de la estética minimalista y cyberpunk.
+* 🎥 Streamer de contenido tecnológico y gaming.
+* 🦾 Entusiasta de la calistenia y el hardware.
