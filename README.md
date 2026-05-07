@@ -1,3 +1,4 @@
+![ image alt] (https://github.com/ricardoruiz-dev/ricardoruiz-dev/blob/0ced1c2c9d9c0384887eff3303cf0ceab690945a/Gemini_Generated_Image_x9dyyux9dyyux9dy.png)
 <p align="center">
   <img src="banner_header.png" alt="Banner de Ricardo Ruiz" width="100%">
 </p>
