@@ -1,8 +1,6 @@
 ![Banner Animado](https://raw.githubusercontent.com/ricardoruiz-dev/ricardoruiz-dev/main/Digital_Character_Animation_A_person_walks_through_a_darkened_industrial_Gk7ywUNk-ezgif.com-gif-maker-2.gif)
-
-# Hola, soy Ricardo Ruiz 👋
-
-### Junior Software Developer | IT Support Specialist
+# ℍ𝕠𝕝𝕒, 𝕤𝕠𝕪 ℝ𝕚𝕔𝕒𝕣𝕕𝕠 ℝ𝕦𝕚𝕫 👋
+### 𝓙𝓾𝓷𝓲𝓸𝓻 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 | 𝓘𝓣 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓢𝓹𝓮𝓬𝓲𝓪𝓵𝓲𝓼𝓽
 
 ---
 
