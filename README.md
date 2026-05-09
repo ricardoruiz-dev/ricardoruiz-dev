@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/richard-ruiz-0836b7a8/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:richar88881@gmail.com">
     <img src="https://img.shields.io/badge/-Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
   <a href="https://www.youtube.com/@rapcardo2" target="_blank">
