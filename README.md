@@ -1,5 +1,4 @@
-![Banner Animado](https://github.com/ricardoruiz-dev/ricardoruiz-dev/blob/e7667027baaf99cbd0ac7ec3497e3c64669f2b23/Digital_Character_Animation_A_person_walks_through_a_darkened_industrial_Gk7ywUNk-ezgif.com-gif-maker-2.gif)
-
+![Banner Animado](https://raw.githubusercontent.com/ricardoruiz-dev/ricardoruiz-dev/main/Digital_Character_Animation_A_person_walks_through_a_darkened_industrial_Gk7ywUNk-ezgif.com-gif-maker-2.gif)
 
 # Hola, soy Ricardo Ruiz 👋
 
@@ -23,7 +22,7 @@
       <p>Estoy trabajando activamente en mis habilidades de programación para transicionar a mi primer rol de desarrollador full-time.</p>
     </td>
     <td width="30%" valign="top">
-      <img src="[https://raw.githubusercontent.com/ricardoruiz-dev/TuRepositorio/nombre-de-la-rama/ruta/a/la/ilustracion.png" width="100%" alt="Ilustración minimalista"](https://github.com/ricardoruiz-dev/ricardoruiz-dev/blob/60cb47cb2456b4bb3642ce124cceb50498e009e1/Digital_Character_Animation_In_a_noir_style_a_man_with_short_brown_hair_and_Hin9mKSw-ezgif.com-video-to-gif-converter.gif) />
+      <img src="https://raw.githubusercontent.com/ricardoruiz-dev/ricardoruiz-dev/main/Digital_Character_Animation_In_a_noir_style_a_man_with_short_brown_hair_and_Hin9mKSw-ezgif.com-video-to-gif-converter.gif" width="100%" alt="Ilustración minimalista" />
     </td>
   </tr>
 </table>
@@ -33,13 +32,13 @@
 ## 📱 Conéctate conmigo
 
 <p align="center">
-  <a href="TU_LINK_DE_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardoruiz-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:TU_CORREO_AQUI">
+  <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://img.shields.io/badge/-Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
-  <a href="TU_LINK_DE_STREAMING_AQUI" target="_blank">
+  <a href="https://www.tiktok.com/@tu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/-Streaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Streaming" />
   </a>
 </p>
@@ -85,11 +84,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/TU_NOMBRE_DE_USUARIO_DE_BMC" target="_blank">
+  <a href="https://www.buymeacoffee.com/ricardoruiz" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ricardoruiz-dev/TuRepositorio/nombre-de-la-rama/ruta/a/la/banner_final.png" alt="Banner final cyberpunk" width="100%" />
 </p>
