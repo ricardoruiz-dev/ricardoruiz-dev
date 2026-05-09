@@ -23,7 +23,7 @@
       <p>Estoy trabajando activamente en mis habilidades de programación para transicionar a mi primer rol de desarrollador full-time.</p>
     </td>
     <td width="30%" valign="top">
-      <img src="https://raw.githubusercontent.com/ricardoruiz-dev/TuRepositorio/nombre-de-la-rama/ruta/a/la/ilustracion.png" width="100%" alt="Ilustración minimalista" />
+      <img src="[https://raw.githubusercontent.com/ricardoruiz-dev/TuRepositorio/nombre-de-la-rama/ruta/a/la/ilustracion.png" width="100%" alt="Ilustración minimalista"](https://github.com/ricardoruiz-dev/ricardoruiz-dev/blob/60cb47cb2456b4bb3642ce124cceb50498e009e1/Digital_Character_Animation_In_a_noir_style_a_man_with_short_brown_hair_and_Hin9mKSw-ezgif.com-video-to-gif-converter.gif) />
     </td>
   </tr>
 </table>
