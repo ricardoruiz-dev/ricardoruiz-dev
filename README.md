@@ -77,11 +77,16 @@
 
 ## 📊 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardoruiz-dev&show_icons=true&theme=tokyonight&cache_seconds=1" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoruiz-dev&layout=compact&theme=tokyonight&cache_seconds=1" alt="Lenguajes más usados" />
-</p>
 
+
+<p align="center">
+  <a href="https://github.com/ricardoruiz-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=ricardoruiz-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Ricardo" />
+  </a>
+  <a href="https://github.com/ricardoruiz-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoruiz-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de Ricardo" />
+  </a>
+</p>
 ---
 
 <p align="center">
